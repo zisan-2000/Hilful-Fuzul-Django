@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment (outside project, still safe)
+venv/
+
+# Environment variables
+.env
+
+# Database
+db.sqlite3
+
+# Media files
+/media/
